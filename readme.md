@@ -7,7 +7,7 @@ This calendar playground aims to replicate **Airbnb's** calendar currently imple
 
 | Light |  Dark |
 | --- | --- |
-| <img src="images/airbnb-light.png" width=250 /> | <img src="images/airbnb-dark.png" width=250 /> |
+| <img src="images/airbnb-light.png" width=250 /> | <img src="images/aribnb-dark1.png" width=250 /> |
 
 ### TODO
 - [ ] Add range-selection feature.
